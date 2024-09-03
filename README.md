@@ -1,4 +1,4 @@
--------------DATASET or TABLE DESCRIPTION------------
+#DATASET or TABLE DESCRIPTION
 
 The database have only table named uk_sales contain the data about the 
 
