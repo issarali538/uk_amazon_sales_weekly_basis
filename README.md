@@ -1,4 +1,5 @@
 -------------DATASET or TABLE DESCRIPTION------------
+
 The database have only table named uk_sales contain the data about the 
 
 amazon sales. The data is collect via weekly basis
